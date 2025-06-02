@@ -1,6 +1,5 @@
-# MRFS – Market Requirements & Feature Specification  
-### پروژه: Second-Class Store  
-### هدف: اعتبارسنجی فرضیات اصلی کسب‌وکار  
+# MRFS – Market Requirements & Feature Specification   
+### اعتبارسنجی فرضیات اصلی کسب‌وکار  
 
 ---
 
